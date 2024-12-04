@@ -34,3 +34,14 @@ python evaluate_WHU.py --test_left_dir dataset/WHU-Stereo/with_GT/test_all/left 
 ```test_right_dir```: Directory containing the right image
 
 ```test_disp_dir```: Directory containing the disparity ground truth
+
+## Evaluation US3D
+```Shell
+python evaluate_US3D.py --test_left_dir dataset/US3D/test_all/left --test_right_dir dataset/US3D/test_all/left --test_disp_dir dataset/US3D/test_all/left --test_save_path results/us3d --device cuda
+```
+```test_left_dir```: Directory containing the left image
+
+```test_right_dir```: Directory containing the right image
+
+```test_disp_dir```: Directory containing the disparity ground truth
+
