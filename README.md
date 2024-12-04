@@ -46,7 +46,8 @@ python evaluate_US3D.py --test_left_dir dataset/US3D/test_all/left --test_right_
 ```test_disp_dir```: Directory containing the disparity ground truth
 
 ## Test on your own image!
-The following command is provided to allow you to test your own dataset!
+The following command is provided to allow you to test your own dataset! We give an example:
 ```Shell
 python evaluate_single.py --left_path KM_left_0.tiff --right_path KM_right_0.tiff --save_path KM_pred_0.tiff --mode 16bit device cuda
 ```
+```mode```: 16bit(single channel) or 8bit(RGB 3 channels) 
