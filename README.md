@@ -21,3 +21,11 @@ This is the official code for TGRNet-REP.
 * [US3D](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019)
   
   Note：If you want to use our preprocessed US3D dataset, please download：
+
+## Pretrained weights
+The pretrained weights for WHU-Stereo and US3D datasets are available at: 
+
+## Evaluation WHU-Stereo
+'''Shell
+python
+'''
