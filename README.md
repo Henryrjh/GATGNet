@@ -23,7 +23,9 @@ This is the official code for TGRNet-REP.
   Note：If you want to use our preprocessed US3D dataset, please download：
 
 ## Pretrained weights
-The pretrained weights for WHU-Stereo and US3D datasets are available at: https://pan.baidu.com/s/1uuZl9WvSpLw6wgNkq9-kTA password: 4k7j
+The pretrained weights for WHU-Stereo and US3D datasets are available at:
+
+https://pan.baidu.com/s/1uuZl9WvSpLw6wgNkq9-kTA password: 4k7j
 
 ## Evaluation WHU-Stereo
 ```Shell
