@@ -26,6 +26,6 @@ This is the official code for TGRNet-REP.
 The pretrained weights for WHU-Stereo and US3D datasets are available at: 
 
 ## Evaluation WHU-Stereo
-'''Shell
+```Shell
 python
-'''
+```
