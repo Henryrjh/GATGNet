@@ -6,9 +6,8 @@ import torch
 import pandas as pd
 import cv2
 from TGRNet.TGRNet import create_TGRNet
-
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+
 
 try:
     autocast = torch.cuda.amp.autocast
