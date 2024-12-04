@@ -51,3 +51,5 @@ The following command is provided to allow you to test your own dataset! We give
 python evaluate_single.py --left_path KM_left_0.tiff --right_path KM_right_0.tiff --save_path KM_pred_0.tiff --mode 16bit device cuda
 ```
 ```mode```: 16bit(single channel) or 8bit(RGB 3 channels) 
+
+## Good luck!
