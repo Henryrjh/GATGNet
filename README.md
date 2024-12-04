@@ -27,5 +27,5 @@ The pretrained weights for WHU-Stereo and US3D datasets are available at:
 
 ## Evaluation WHU-Stereo
 ```Shell
-python
+python evaluate_WHU.py --test_left_dir dataset/WHU-Stereo/with_GT/test_all/left --test_right_dir dataset/WHU-Stereo/test_all/right --test_disp_dir dataset/WHU-Stereo/test_all/disp --test_save_path results/whu --device cuda
 ```
