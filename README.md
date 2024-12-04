@@ -39,6 +39,12 @@ python evaluate_WHU.py --test_left_dir dataset/WHU-Stereo/with_GT/test_all/left 
 
 ```test_disp_dir```: Directory containing the disparity ground truth
 
+The results will be:
+
+```Shell
+EPE: 1.586  D1:12.63%
+```
+
 ## Evaluation US3D
 ```Shell
 python evaluate_US3D.py --test_left_dir dataset/US3D/test_all/left --test_right_dir dataset/US3D/test_all/left --test_disp_dir dataset/US3D/test_all/left --test_save_path results/us3d --device cuda
@@ -48,6 +54,12 @@ python evaluate_US3D.py --test_left_dir dataset/US3D/test_all/left --test_right_
 ```test_right_dir```: Directory containing the right image
 
 ```test_disp_dir```: Directory containing the disparity ground truth
+
+The results will be:
+
+```Shell
+EPE: 1.313  D1:7.17%
+```
 
 ## Test on your own image!
 The following command is provided to allow you to test your own dataset! We give an example:
