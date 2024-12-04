@@ -52,4 +52,6 @@ python evaluate_single.py --left_path KM_left_0.tiff --right_path KM_right_0.tif
 ```
 ```mode```: 16bit(single channel) or 8bit(RGB 3 channels) 
 
+The result will be saved at 'KM_pred_0.tiff'!
+
 ## Good luck!
