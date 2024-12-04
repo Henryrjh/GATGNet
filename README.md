@@ -18,5 +18,5 @@ This is the official code for TGRNet-REP.
 
 ## Dataset Preparation
 * [WHU-Stereo](https://github.com/Sheng029/WHU-Stereo)
-* US3D(https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019)
+* [US3D](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019)
    Note：If you wish to use our preprocessed US3D dataset, please download：
