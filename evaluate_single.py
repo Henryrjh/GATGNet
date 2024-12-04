@@ -93,9 +93,9 @@ def validate_rs_single(model, left_path, right_path, save_path=None, mode='16bit
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--left_path', default='/home/rjh/Stereo_matching/dataset/WHU-Stereo_dataset/with_GT/test_KM/left/KM_left_0.tiff')
-    parser.add_argument('--right_path', default='/home/rjh/Stereo_matching/dataset/WHU-Stereo_dataset/with_GT/test_KM/right/KM_right_0.tiff')
-    parser.add_argument('--save_path', default='1.tiff')
+    parser.add_argument('--left_path', default='KM_left_0.tiff')
+    parser.add_argument('--right_path', default='KM_right_0.tiff')
+    parser.add_argument('--save_path', default='KM_pred_0.tiff.tiff')
     parser.add_argument('--mode', default='16bit', choices=['8bit', '16bit'], help='The format of input data')
     parser.add_argument('--device', default='cuda', choices=['cpu', 'cuda'], help='cpu or cuda')
 
