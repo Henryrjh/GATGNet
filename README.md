@@ -55,3 +55,4 @@ python evaluate_single.py --left_path KM_left_0.tiff --right_path KM_right_0.tif
 The result will be saved at 'KM_pred_0.tiff'!
 
 ## Good luck!
+Thank you for using our code!
