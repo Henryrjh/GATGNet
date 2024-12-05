@@ -21,6 +21,8 @@ This is the official code for TGRNet-REP.
 ### Visualization on WHU-Stereo dataset
 ![WHU](WHU.png)
 
+(a) left image. (b) disparity ground truth. (c) SGM. (d) PSMNet. (e) HMSMNet. (f) RAFT. (g) DLNR. (h) Ours.
+
 ### Visualization on US3D dataset
 ![US3D](US3D.png)
 
