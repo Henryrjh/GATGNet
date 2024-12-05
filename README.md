@@ -17,7 +17,14 @@ This is the official code for TGRNet-REP.
 ```opencv-python==4.4.0.46```
 
 ## Visualization
+
+### Visualization on WHU-Stereo dataset
 ![WHU](WHU.png)
+
+### Visualization on US3D dataset
+![US3D](US3D.png)
+
+(a) left image. (b) disparity ground truth. (c) SGM. (d) PSMNet. (e) HMSMNet. (f) RAFT. (g) DLNR. (h) Ours.
 
 ## Dataset Preparation
 * [WHU-Stereo](https://github.com/Sheng029/WHU-Stereo)
