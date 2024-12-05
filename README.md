@@ -16,6 +16,9 @@ This is the official code for TGRNet-REP.
 
 ```opencv-python==4.4.0.46```
 
+## Visualization
+(WHU.png)
+
 ## Dataset Preparation
 * [WHU-Stereo](https://github.com/Sheng029/WHU-Stereo)
 * [US3D](https://ieee-dataport.org/open-access/data-fusion-contest-2019-dfc2019)
@@ -55,7 +58,6 @@ The best score for each metric is marked in **bold**.
 |RAFT         |  1.729    |  14.12 |
 |DLNR         |  1.864    |  16.56 |
 |TGRNet(ours) |**1.586**  |**12.63**|
-
 
 ## Evaluation on US3D
 ```Shell
