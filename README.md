@@ -47,7 +47,14 @@ EPE: 1.586  D1:12.63%
 
 ## Comparsion with other methods
 
-
+|Method       |  EPE(Px)  |
+|-------------|-----------|
+|SGM          |  4.989    |
+|PSMNet       |  2.183    |
+|HMSMNet      |  2.040    |
+|RAFT         |  1.729    |
+|DLNR         |  1.864    |
+|TGRNet(ours) |**1.586**  |
 ## Evaluation US3D
 ```Shell
 python evaluate_US3D.py --test_left_dir dataset/US3D/test_all/left --test_right_dir dataset/US3D/test_all/left --test_disp_dir dataset/US3D/test_all/left --test_save_path results/us3d --device cuda
