@@ -17,7 +17,7 @@ This is the official code for TGRNet-REP.
 ```opencv-python==4.4.0.46```
 
 ## Visualization
-(WHU.png)
+![WHU](WHU.png)
 
 ## Dataset Preparation
 * [WHU-Stereo](https://github.com/Sheng029/WHU-Stereo)
