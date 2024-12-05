@@ -29,7 +29,7 @@ https://pan.baidu.com/s/1uuZl9WvSpLw6wgNkq9-kTA password: 4k7j
 
 Please place them in the main directory.
 
-## Evaluation WHU-Stereo
+## Evaluation on WHU-Stereo
 ```Shell
 python evaluate_WHU.py --test_left_dir dataset/WHU-Stereo/with_GT/test_all/left --test_right_dir dataset/WHU-Stereo/test_all/right --test_disp_dir dataset/WHU-Stereo/test_all/disp --test_save_path results/whu --device cuda
 ```
@@ -57,7 +57,7 @@ The best score for each metric is marked in **bold**.
 |TGRNet(ours) |**1.586**  |**12.63**|
 
 
-## Evaluation US3D
+## Evaluation on US3D
 ```Shell
 python evaluate_US3D.py --test_left_dir dataset/US3D/test_all/left --test_right_dir dataset/US3D/test_all/left --test_disp_dir dataset/US3D/test_all/left --test_save_path results/us3d --device cuda
 ```
