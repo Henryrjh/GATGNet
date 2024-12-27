@@ -1,4 +1,4 @@
-# TGRNet-REP
+# MSGEV-TJGNet
 This is the official code for MSGEV-TJGNet.
 ## Requirements
 
