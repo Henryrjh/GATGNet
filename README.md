@@ -66,7 +66,7 @@ The best score for each metric is marked in **bold**.
 |HMSMNet      |  2.040    |  19.00 |
 |RAFT         |  1.729    |  14.12 |
 |DLNR         |  1.864    |  16.56 |
-|TGRNet(ours) |**1.586**  |**12.63**|
+|Ours         |**1.586**  |**12.63**|
 
 ## Evaluation on US3D
 ```Shell
@@ -93,7 +93,7 @@ The best score for each metric is marked in **bold**.
 |HMSMNet      |  1.473    |  9.17 |
 |RAFT         |  1.366    |  7.72 |
 |DLNR         |  1.389    |  8.03 |
-|TGRNet(ours) |**1.313**  |**7.17**|
+|Ours         |**1.313**  |**7.17**|
 
 
 ## Test on your own image!
