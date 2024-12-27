@@ -1,5 +1,5 @@
 # TGRNet-REP
-This is the official code for TGRNet-REP.
+This is the official code for MSGEV-TJGNet.
 ## Requirements
 
 ```python==3.8```
