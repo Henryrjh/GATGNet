@@ -34,14 +34,6 @@ This is the official code for MSGEV-TJGNet.
   
   Note：If you want to use our preprocessed US3D dataset, please download：
 
-## Evaluation on WHU-Stereo
-
-The results will be:
-
-```Shell
-EPE: 1.586  D1:12.63%
-```
-
 ## Comparsion with other methods
 The best score for each metric is marked in **bold**.
 |Method       |  EPE(Px)  |  D1(%) |
@@ -52,8 +44,6 @@ The best score for each metric is marked in **bold**.
 |RAFT         |  1.729    |  14.12 |
 |DLNR         |  1.864    |  16.56 |
 |Ours         |**1.586**  |**12.63**|
-
-## Evaluation on US3D
 
 ## Comparsion with other methods
 The best score for each metric is marked in **bold**.
