@@ -8,7 +8,7 @@ This is the official code for MSGEV-TJGNet.
 
 ```cryptography==43.0.0```
 
-```torch==2.3.0```
+```torch==2.1.0```
 
 ```numpy==1.24.4```
 
