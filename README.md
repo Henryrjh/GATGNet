@@ -6,16 +6,6 @@ This is the official code for MSGEV-TJGNet.
 
 ```einops==0.3.0```
 
-```cryptography==43.0.0```
-
-```torch==2.1.0```
-
-```numpy==1.24.4```
-
-```pandas==2.0.3```
-
-```opencv-python==4.4.0.46```
-
 ## Visualization
 
 ### Visualization on WHU-Stereo dataset
