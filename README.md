@@ -57,5 +57,5 @@ The best score for each metric is marked in **bold**.
 |Ours         |**1.313**  |**7.17**|
 
 ## Train
-Once our paper is accepted, the code will be released.
+Once we have organized the code, we will release it.
 
