@@ -24,7 +24,7 @@ This is the official code for MSGEV-TJGNet.
   
   Note：If you want to use our preprocessed US3D dataset, please download：
 
-## Comparsion with other methods
+## Comparsion on WHU-Stereo dataset
 The best score for each metric is marked in **bold**.
 |Method       |  EPE(Px)  |  D1(%) |
 |-------------|-----------|--------|
@@ -36,7 +36,7 @@ The best score for each metric is marked in **bold**.
 |PCV          |  1.918    |  17.31 |
 |Ours         |**1.739**  |**14.71**|
 
-## Comparsion with other methods
+## Comparsion on US3D dataset
 The best score for each metric is marked in **bold**.
 |Method       |  EPE(Px)  |  D1(%) |
 |-------------|-----------|--------|
