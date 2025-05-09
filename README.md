@@ -30,10 +30,11 @@ The best score for each metric is marked in **bold**.
 |-------------|-----------|--------|
 |SGM          |  4.989    |  36.22 |
 |PSMNet       |  2.183    |  21.95 |
+|GwcNet       |  2.265    |  22.80 |
 |HMSMNet      |  2.040    |  19.00 |
-|RAFT         |  1.729    |  14.12 |
 |DLNR         |  1.864    |  16.56 |
-|Ours         |**1.586**  |**12.63**|
+|PCV          |  1.918    |  17.31 |
+|Ours         |**1.739**  |**14.71**|
 
 ## Comparsion with other methods
 The best score for each metric is marked in **bold**.
