@@ -1,5 +1,5 @@
-# MSGEV-TJGNet
-This is the official code for MSGEV-TJGNet.
+# GTAGNet
+This is the official code for GTAGNet.
 ## Requirements
 
 ```python==3.8```
