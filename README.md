@@ -1,5 +1,5 @@
-# GTAGNet
-This is the official code for GTAGNet.
+# GATGNet
+This is the official code for GATGNet.
 ## Requirements
 
 ```python==3.8```
