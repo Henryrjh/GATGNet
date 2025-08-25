@@ -1,5 +1,5 @@
-# GATGNet
-This is the official code for GATGNet.
+# TGRNet
+This is the official code for TGRNet.
 ## Requirements
 
 ```python==3.8```
